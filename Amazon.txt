@@ -1,0 +1,20 @@
+T01 Watch,Kindle,Amazon Fire TV,Fitbit Wristband,Tommy Sunglasses,Stuart Weitzman Coolboot,Martin Guitar,HDMI Cable,IPhone 6,Jansport Backpack
+T02 Kindle,Fitbit Wristband,Stuart Weitzman Coolboot,IPhone 6,Jansport Backpack
+T03 Watch,Kindle,Amazon Fire TV
+T04 Kindle,Amazon Fire TV,Tommy Sunglasses,Stuart Weitzman Coolboot
+T05 Fitbit Wristband,Stuart Weitzman Coolboot,Martin Guitar,Jansport Backpack
+T06 HDMI Cable,IPhone 6
+T07 HDMI Cable,IPhone 6,Jansport Backpack
+T08 Fitbit Wristband,Stuart Weitzman Coolboot,Martin Guitar,IPhone 6,Jansport Backpack
+T09 Tommy Sunglasses,Martin Guitar,Jansport Backpack
+T10 Watch,Martin Guitar,IPhone 6,Jansport Backpack
+T11 Watch,Kindle,Amazon Fire TV,Martin Guitar,HDMI Cable,IPhone 6,Jansport Backpack
+T12 Amazon Fire TV,Fitbit Wristband,Tommy Sunglasses,Stuart Weitzman Coolboot,Martin Guitar,HDMI Cable
+T13 Watch,Amazon Fire TV,Stuart Weitzman Coolboot,Jansport Backpack
+T14 Amazon Fire TV,Tommy Sunglasses
+T15 Watch,Fitbit Wristband,Jansport Backpack
+T16 Martin Guitar,Jansport Backpack
+T17 Amazon Fire TV,HDMI Cable,IPhone 6,Martin Guitar
+T18 Watch,Amazon Fire TV,Stuart Weitzman Coolboot
+T19 Amazon Fire TV,Tommy Sunglasses,Stuart Weitzman Coolboot,Jansport Backpack
+T20 Kindle,Amazon Fire TV,Fitbit Wristband,Tommy Sunglasses,Stuart Weitzman Coolboot,Martin Guitar
